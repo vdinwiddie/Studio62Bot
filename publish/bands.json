@@ -1,0 +1,26 @@
+[
+  {
+    "roleId": 1489115117667881061,
+    "name": "Glitched Out",
+    "enabled": true,
+    "sortOrder": 1
+  },
+  {
+    "roleId": 1489400025195876433,
+    "name": "Amigos Egos",
+    "enabled": true,
+    "sortOrder": 2
+  },
+  {
+    "roleId": 1489400327265452032,
+    "name": "Dead Living",
+    "enabled": true,
+    "sortOrder": 3
+  },
+  {
+    "roleId": 0,
+    "name": "Band 4",
+    "enabled": false,
+    "sortOrder": 4
+  }
+]
